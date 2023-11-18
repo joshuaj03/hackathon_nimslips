@@ -1,0 +1,46 @@
+body{
+    margin: 0px;;
+}
+
+main{
+    margin: 5%;
+    text-align: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: hsl(350, 71%, 49%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.video1 {
+    margin: 2%;
+    align-items: center;
+    
+}
+
+#lipstick {
+    display: block;
+}
+
+/* Style the images */
+#lipstick img {
+    display: block;
+    margin-bottom: 1cm; /* Set the margin to create a 1cm gap between the images */
+}
+
+footer {
+    background-color: rgba(204, 24, 24, 0.536);
+    color: white;
+    
+}
